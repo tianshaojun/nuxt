@@ -1,4 +1,4 @@
-# nuxtdemo
+# nuxt
 
 > Nuxt.js project
 
